@@ -1,0 +1,12 @@
+# Spotify Checker 1.0
+
+This tool checks for valid premium/free Spotify accounts. Saves the results to a folder inside programs directory. It's proxyless but if you're feeling like it you can use proxies.
+
+![Photo](https://i.imgur.com/EwL9iGY.png)
+![Photo](https://i.imgur.com/7QJiWUj.png)
+
+## Changelog
+
+### [1.0] 
+
+- The very initial release of this software
