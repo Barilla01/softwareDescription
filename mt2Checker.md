@@ -2,7 +2,7 @@
 
 This tool checks for valid Metin2 accounts on the German server [metin2.de](http://de.metin2.gameforge.com). ~~It also checks for characters (only levels, to be changed) and dragon coins~~ It captures all characters on the account alongside with information about what server were they created on, and what level and class are they. Also, it supports proxy so you can check more than just a few accounts per 5 minutes. ~~It doesn't have multi-threading yet, which is a big disadventage. I'm looking to include it in the future releases tho. For now, it's kinda slow but does it's job.~~ Saves the results to a folder inside programs directory. Accounts that got the captcha verification or accounts that weren't checked due to proxy error or anything else, simply return to the pool.
 
-![Photo](https://buy-a-nig.ga/FNd.png)
+![Photo](https://buy-a-nig.ga/fXG.png)
 ![Photo](https://buy-a-nig.ga/wjY.png)
 
 ## Changelog
